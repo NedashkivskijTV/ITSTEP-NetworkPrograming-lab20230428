@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8BZYC/JNhYO2XrKp4Mzf2FkP+B5XRFGSVjUsyYQRr/Qe1yWs8gYl7eSz82NzdGnqTk88GrWN9c9Ldh+cF3NVxg==",
+  "success": true,
+  "projectFilePath": "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0320230428\\v01\\ClientNetworkClock\\ClientNetworkClock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TarasN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\TarasN\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\TarasN\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\TarasN\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
